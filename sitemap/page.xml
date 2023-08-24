@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+	    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"
+	    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://steinvisual.com</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/work/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://steinvisual.com/wp-content/uploads/covers/work.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/art-of-stein/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/services/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/about/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/contact/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://steinvisual.com/wp-content/uploads/covers/contact.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/contact/request-a-proposal/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/careers/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/privacy-policy/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/terms-and-conditions/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://steinvisual.com/icon-library/</loc>
+		<lastmod>2023-08-24T04:16:00+00:00</lastmod>
+	</url>
+</urlset>

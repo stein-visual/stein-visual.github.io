@@ -1,0 +1,8 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <title>to-the-top</title>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M-2-2h24v24H-2z"/>
+        <path stroke="#000" stroke-linecap="square" d="M10 19.507V2"/>
+        <path stroke="#000" d="m1 11 9-10 9 10M0 .5h20"/>
+    </g>
+</svg>
